@@ -1,6 +1,6 @@
 # Funtec e Piso
 
-![preview](./receitas/assets/bolodecenoura.png)
+![preview](./assets/bolodecenoura.png)
 
 > Projeto básico
 
